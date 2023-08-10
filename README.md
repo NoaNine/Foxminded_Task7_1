@@ -1,8 +1,8 @@
-# Task7
+#Task7
 
-Проект створено Гавлицьким Олександром в навчальних цілях на курсі FoxmindEd.
+РџСЂРѕРµРєС‚ СЃС‚РІРѕСЂРµРЅРѕ Р“Р°РІР»РёС†СЊРєРёРј РћР»РµРєСЃР°РЅРґСЂРѕРј РІ РЅР°РІС‡Р°Р»СЊРЅРёС… С†С–Р»СЏС… РЅР° РєСѓСЂСЃС– FoxmindEd.
 
-Опис задачі:
+РћРїРёСЃ Р·Р°РґР°С‡С–:
 Analyze and decompose Warehouse (create UML class diagram for application).
 
 The user of your application will be a Warehouse manager.
