@@ -12,6 +12,5 @@ Analyze main parts and functions of Warehouse.
 Add png image to the separate gitlab project.
 
  
-
 Resultshould be  added to the Gitlab repository as a png image.
 
